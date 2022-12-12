@@ -1,0 +1,2 @@
+# Flower classification with Supervised Machine Learning
+## Iris classification machine learning project aims to create a model that predicts the classification of a flower based on the petal length and width, and sepal length and width.
